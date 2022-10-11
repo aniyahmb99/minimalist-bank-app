@@ -1,5 +1,13 @@
 # MINIMALIST BANK APP
 
+## Screenshots
+
+Home Page
+![image](https://user-images.githubusercontent.com/96402809/195171774-6d6ddda4-6612-4929-b0a5-2864e8826820.png)
+
+Inner UI
+![image](https://user-images.githubusercontent.com/96402809/195171861-ae8f4dde-bf4a-4281-b292-ed9bed25a351.png)
+
 
 ## DESCRIPTION
 This app is designed to look and function like the inside of someones banking account with a minimalist theme for the UI.
@@ -30,12 +38,6 @@ Allows users to make transfers between other users, take out loans, or delete th
 
 ## Technologies
 HTML, CSS, and JavaScript
-
-
-## Screenshots
-
-Home Page
-![image]()
 
 ## Contributors
 Aniyah Butler
